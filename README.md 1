@@ -1,0 +1,25 @@
+# Data Science Project
+
+## 📌 Project Overview
+
+This project focuses on data analysis and machine learning techniques to extract insights and build predictive models.
+
+## 🛠 Technologies Used
+
+* Python (Pandas, NumPy)
+* Matplotlib / Seaborn
+* Scikit-learn / XGBoost
+* SQL
+* Jupyter Notebook
+
+## 📊 Project Steps
+
+1. Data Collection
+2. Data Cleaning & Preprocessing
+3. Exploratory Data Analysis (EDA)
+4. Model Building
+5. Evaluation & Results
+
+## 🚀 Results
+
+The project identifies patterns in the dataset and builds predictive models to support decision-making.
