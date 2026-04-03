@@ -1,25 +1,36 @@
-# Data Science Project
+# 📊 Customer Churn Prediction Project
 
 ## 📌 Project Overview
 
-This project focuses on data analysis and machine learning techniques to extract insights and build predictive models.
+This project aims to analyze customer data and predict customer churn using machine learning techniques. The goal is to identify patterns that help businesses retain customers.
 
 ## 🛠 Technologies Used
 
 * Python (Pandas, NumPy)
-* Matplotlib / Seaborn
-* Scikit-learn / XGBoost
+* Data Visualization (Matplotlib, Seaborn)
+* Machine Learning (Scikit-learn, XGBoost)
 * SQL
 * Jupyter Notebook
 
-## 📊 Project Steps
+## 📊 Project Workflow
 
-1. Data Collection
+1. Data Collection and Preparation
 2. Data Cleaning & Preprocessing
 3. Exploratory Data Analysis (EDA)
-4. Model Building
-5. Evaluation & Results
+4. Feature Engineering
+5. Model Training (Classification Models)
+6. Model Evaluation
 
-## 🚀 Results
+## 📈 Key Insights
 
-The project identifies patterns in the dataset and builds predictive models to support decision-making.
+* Identified key factors influencing customer churn
+* Built predictive model to classify customers at risk
+* Provided data-driven recommendations for retention strategies
+
+## 🚀 Conclusion
+
+The model helps businesses proactively identify customers likely to churn and take action to improve retention.
+
+## 🔗 Repository
+
+https://github.com/Willians-hub/My_project
